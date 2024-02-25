@@ -1,5 +1,9 @@
-### Hi there 👋
-I'm Rafael and I am a Junior Software Developer
+### Hey there! 👋
+I'm Rafael and I am a Junior Developer still figuring things out, but I'm learning fast (and making lots of fun mistakes along the way). Check out my projects - they might be messy, but they're made with coffee and passion!
+
+TECH STACK
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+
 <!--
 **RafaelArmelin/RafaelArmelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
