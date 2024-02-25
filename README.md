@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Rafael and I am a Junior Software Developer
 <!--
 **RafaelArmelin/RafaelArmelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
